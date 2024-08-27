@@ -1,0 +1,21 @@
+How to Run a Task
+
+To run a predefined task:
+
+1. In the navigation pane, click Tasks to open the Tasks pane.
+
+2. Expand the folder that contains the task.
+
+3. Right-click the task name and select Open. Alternatively, you can double-click the task to open it.
+
+The task opens to the right of the work area.
+
+[image] User Interface for the Bar Chart Task
+
+4. If the Data tab is available, specify an input data source and select columns for the roles in the data source. A role is a description of a variable’s purpose in the task. To add a column to a role, click Select columns. A list of available columns for that role appears. If only one column can be assigned to the role, you select a column and the list disappears. If multiple columns can be assigned, you can press Ctrl or Shift to select multiple columns from the list and click OK.
+
+5. On the remaining tabs, specify any other required options, which are denoted with a red asterisk. As you assign values to the task, the relevant SAS code is generated. For more information about the options available for each task, see SAS Studio: Task Reference Guide.
+
+Tip: The Task Console displays any information required to run the task.
+
+6. To run the task, click Submit code.

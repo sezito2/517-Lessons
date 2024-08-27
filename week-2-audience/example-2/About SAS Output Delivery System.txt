@@ -1,0 +1,6 @@
+About the SAS Output Delivery System
+
+The SAS Output Delivery System (ODS) gives you greater flexibility in generating, storing, and reproducing SAS procedure and DATA step output along with a wide range of formatting options. ODS provides formatting functionality that is not available when using individual procedures or the DATA step without ODS.
+
+SAS Studio uses very specific ODS options and the GOPTIONS statements so that the output is displayed properly in the web environment. To view all of the ODS options in your code, click Options > Preferences. In the Preferences window, click SAS Programs > Code and Log and select the Show generated code in the SAS log option.
+Note:To ensure that your output is displayed properly, do not change the settings of the ODS options or GOPTIONS statements in the generated code

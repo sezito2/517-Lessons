@@ -1,0 +1,7 @@
+Generate Output for Other Output Destinations
+
+If you need to generate output other than the default HTML5, PDF, or RTF output, you must open your own ODS destination. Examples of output destinations include HTML, PowerPoint, and LISTING. After you disable the default output environment, use an ODS statement to open your own output destination. Here is an example:
+filename odsout "&_SASWS_/charts";
+ods _all_ close;
+ods powerpoint path=odsout file="filename";
+To access the dictionary of ODS statements, see SAS Output Delivery System: User’s Guide

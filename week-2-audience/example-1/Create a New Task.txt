@@ -1,0 +1,14 @@
+Create a New Task
+SAS Studio provides a template that you can use to create custom tasks for your site.
+To create a custom task:
+
+1. In the navigation pane, click to open the Tasks pane.
+
+2. Click and select Task. A blank task template opens.
+
+3. Edit the code in the task template to create your task. To view the user interface for the task template, click Open. In the user interface for the task template, you can see examples of radio buttons, check boxes, combination boxes, and other types of options. For more information about this file, see SAS Studio: Developer’s Guide to Writing Custom Tasks.
+4. Click .
+
+Note:The name of the task cannot include these special characters:
+
+[ ] { } , ? / \ * # “ % + | < > :

@@ -1,0 +1,3 @@
+What Is a Task?
+
+A task is an XML and Apache Velocity code file that generates SAS code and formats results for you. Tasks include SAS procedures from simple data listings to complex analytical procedures. SAS Studio is shipped with several predefined tasks that are available in the Standard perspective. The tasks are organized into categories. Some categories and their tasks might not be available at your site because you do not have the required SAS product.

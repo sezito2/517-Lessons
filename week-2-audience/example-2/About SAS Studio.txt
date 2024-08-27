@@ -1,0 +1,3 @@
+About SAS Studio
+
+SAS Studio is a development application for SAS that you access through your web browser. With SAS Studio, you can access your data files, libraries, and existing programs, and you can write new programs. You can also use the predefined tasks in SAS Studio to generate SAS code. When you run a program or task, SAS Studio connects to a SAS server to process the SAS code. The SAS server can be a hosted server in a cloud environment or a remote server in your local environment. After the code is processed, the results are returned to SAS Studio in your browser.

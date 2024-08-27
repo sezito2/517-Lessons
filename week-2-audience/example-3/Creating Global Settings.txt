@@ -1,0 +1,44 @@
+Creating Global Settings
+
+About the Settings Window
+
+The Settings window enables you to specify settings for the appearance theme, locale, and accessibility. To change the global settings, click the down arrow beside your name on the toolbar and select Settings.
+
+Specifying the General Settings
+From the General page, you can specify these options for SAS Studio.
+Options
+Description
+
+Theme
+Enables you to change the appearance of the SAS Studio web application. The theme specifies the collection of colors, graphics, and fonts that appear in the application. You can choose from SAS themes or custom themes, if you have any available. You can choose from these SAS themes:
+
+Illuminate
+Includes a clean and uncomplicated color palette that is easy to use. This is the default theme.
+
+Inspire
+Consists of vibrant and cohesive colors that shift the emphasis from the application to the content.
+
+High Contrast
+Presents a dark background with high-contrast foreground elements to meet the needs of users with low vision.
+
+The theme change takes effect after you close the Settings window.
+
+Reset to show all warning and information messages
+Displays warnings and messages that you previously chose to hide.
+
+Profile picture
+Displays your profile picture.
+
+Specifying the Region and Language Settings
+
+From the Region and Language page, you can specify these options.
+Options
+
+Description
+
+Locale for regional formats and sorting
+Specifies the locale that is used for sorting data and formatting values such as dates, times, numbers, and currency. The default setting is the browser locale. Changes take effect after you sign out and sign back in.
+
+Locale for offline processes
+Specifies the locale that is used for offline jobs or background processes such as report distributions or notifications. The default setting is the locale of the Java Runtime Environment.
+60 Appendix 1 • Customizing SAS Studio

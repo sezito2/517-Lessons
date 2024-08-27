@@ -1,0 +1,5 @@
+Freezing and Sorting Data
+
+In the table viewer, you can right-click a column heading to sort the data by that column or freeze the data at that column. You can sort the data in ascending or descending alphabetical order or display the columns in the order in which they appear in the data table.
+
+To freeze a column so that column and any columns to the left remain visible while you scroll through the remaining columns, right-click the appropriate column and select Freeze column here. To add another column to the frozen section, right-click the column and select Move to freeze.

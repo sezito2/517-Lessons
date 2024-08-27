@@ -1,0 +1,19 @@
+Edit a Predefined Task
+
+To customize the predefined tasks for your site, you can edit the XML code that is used to create the task.
+
+To edit a predefined task:
+
+1. In the navigation pane, click to open the Tasks pane.
+
+2. Expand the folder that contains the task.
+
+3. Right-click the name of the task that you want to edit and select Add to My Tasks. The Add to My Tasks window appears.
+
+4. Specify a name and description for the task. By default, the name and description from the predefined task is used. You can also specify where to save a copy of this task in the My Tasks folder.
+
+Click OK.
+
+5. In the My Tasks folder, right-click the copied task and select Edit. The CTM file for the task appears in a new tab.
+
+6. Edit the XML file and save your changes. To preview your changes, click Open.
