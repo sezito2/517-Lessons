@@ -9,6 +9,7 @@
 ### 1.2.  GitHub basics (repos, branching, commits, pull requests, merging)
 
 - [ ] Clone a repo in VSC / GitHub Desktop (including file location)
+  - Use the [517-Lessons](https://github.com/ENG517/517-Lessons) repo.
 - [ ] Fetching files from GitHub
 - [ ] Branching the repo
 - [ ] Staging, commenting, and pushing changes
